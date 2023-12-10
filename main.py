@@ -5,8 +5,8 @@ import opis
 import podzial
 
 # Dane dostępowe do serwera
-CLUSTER_ENDPOINT = "https://in03-07f952e757bfd42.api.gcp-us-west1.zillizcloud.com"
-TOKEN = "3ca509b8640cce19074fcee9ae6f44882ac2e6ef89a093dc88a79be39bee5e5acf0a2caf42927f163030c6e53ecff11c372170a5"
+CLUSTER_ENDPOINT = "ENDPOINT"
+TOKEN = "TOKEN"
 
 
 # Inicjalizacja klienta
