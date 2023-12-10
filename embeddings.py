@@ -2,7 +2,7 @@
 import os
 from openai import AzureOpenAI
 
-os.environ["AZURE_OPENAI_API_KEY"] = "647fa5db0d0945b3a9b2bc70c8be6a94"
+os.environ["AZURE_OPENAI_API_KEY"] = "APIKEY"
 api_version = "2023-07-01-preview"
 client = AzureOpenAI(
     api_version=api_version,
